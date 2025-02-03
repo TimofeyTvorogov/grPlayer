@@ -120,6 +120,9 @@
       </list>
     </option>
   </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -202,7 +205,6 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -456,7 +458,8 @@
       <workItem from="1738508367682" duration="1169000" />
       <workItem from="1738509541471" duration="856000" />
       <workItem from="1738510604891" duration="308000" />
-      <workItem from="1738511596314" duration="258000" />
+      <workItem from="1738511596314" duration="755000" />
+      <workItem from="1738555510863" duration="306000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,6 @@
 # grPlayer
+
+My humble music player with artisanal design inspired by ghostunner OST cover style
 Rework of ktualhu's project https://github.com/ktualhu/ktPlayer-Music-Player
 
 coded in Java 22 with using JavaFx.
@@ -24,3 +26,6 @@ Few screenshoots:
 
 
  
+
+
+
