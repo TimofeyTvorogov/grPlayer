@@ -11,8 +11,8 @@ The following libraries were using:
 
 How to run in IDE:
   - open cmd and cd to the project
-  - type "mvn clean javafx:run"
-  - due to build bug, running by jar is not yet supported
+  - type "mvn clean javafx:run" (download javaFX to run without maven)
+  - due to build bug, building jar is not yet supported
 
   
 How to use:
@@ -21,8 +21,8 @@ How to use:
   - apply equalizer presets if wanted
   - switch to music streaming
 
-Few screenshoots:
-  - to be added
+Player UI:
+![ui](readme_images/img.png)
 
 
  

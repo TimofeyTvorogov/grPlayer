@@ -208,7 +208,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrtvo/IdeaProjects/grPlayer&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrtvo/OneDrive/Рабочий стол/study&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -280,7 +280,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.grplayer.Main" />
-      <module name="grPlayer" />
+      <module name="GRplayer" />
       <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
       <extension name="coverage">
         <pattern>
@@ -459,7 +459,8 @@
       <workItem from="1738509541471" duration="856000" />
       <workItem from="1738510604891" duration="308000" />
       <workItem from="1738511596314" duration="755000" />
-      <workItem from="1738555510863" duration="306000" />
+      <workItem from="1738555510863" duration="1121000" />
+      <workItem from="1738670738827" duration="52000" />
     </task>
     <servers />
   </component>
